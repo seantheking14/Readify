@@ -1,7 +1,7 @@
 
-  # LitLens
+  # Readify
 
-  This is a code bundle for LitLens. The original project is available at https://www.figma.com/design/V90BZvUTPnKR553v21Enxm/LitLens.
+  This is a code bundle for Readify. 
 
   ## Running the code
 
